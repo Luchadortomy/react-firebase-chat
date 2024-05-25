@@ -32,7 +32,7 @@ const Detail = () => {
       <div className="user">
         <img src={user?.avatar || "./avatar.png"} alt="" />
         <h2>{user?.username}</h2>
-        <p>soy el tom 2 pero a la vez el 1</p>
+        <p>Lorem ipsum dolor sit amet.</p>
       </div>
       <div className="info">
         <div className="option">
@@ -62,7 +62,7 @@ const Detail = () => {
             <div className="photoItem">
               <div className="photoDetail">
                 <img
-                  src="https://www.mundodeportivo.com/alfabeta/hero/2024/04/miles-morales-spider-man.1712154453.6815.jpg?width=768&aspect_ratio=16:9&format=nowebp"
+                  src=""
                   alt=""
                 />
                 <span>photo_2024_2.png</span>
